@@ -9,7 +9,7 @@ let g = [11, 22, 33, 44, 55 ]
 
 
 
-// for ( let i = 0; i <= 10; i++ ){
-//     console.log(`Hello my Name is ${i}`);
-// }
+for ( let i = 0; i <= 10; i++ ){
+    console.log(`Hello my Name is ${i}`);
+}
 
