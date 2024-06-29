@@ -7,3 +7,6 @@ let bbc = 45
 
 let g = [11, 22, 33, 44, 55 ]
 
+
+
+console.log(f);
