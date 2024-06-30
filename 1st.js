@@ -17,4 +17,12 @@ let g = [11, 22, 33, 44, 55 ]
 
 let gg = 10000000
 
-console.log(gg.toLocaleString('en-IN'));
+// console.log(gg.toLocaleString('en-IN'));
+
+
+
+let gi = 2.5
+
+let yy = Math.random()+1
+
+console.log(yy);
