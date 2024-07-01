@@ -36,3 +36,8 @@ let t = Math.random()
 let gig = Math.floor((t*(max - min + 1)) + min)
 console.log(t);
 console.log(gig); 
+
+
+
+
+
