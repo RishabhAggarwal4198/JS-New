@@ -25,12 +25,14 @@ let gi = 2.5
 
 let yy = Math.random()+1
 
-console.log(yy);
+// console.log(yy);
 
 
 
 
 let max = 100
 let min = 10
-
-let gig = Math.floor(Math.random()*(max - min + 1))
+let t = Math.random()
+let gig = Math.floor((t*(max - min + 1)) + min)
+console.log(t);
+console.log(gig); 
