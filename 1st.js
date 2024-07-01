@@ -34,10 +34,14 @@ let max = 100
 let min = 10
 let t = Math.random()
 let gig = Math.floor((t*(max - min + 1)) + min)
-console.log(t);
-console.log(gig); 
+// console.log(t);
+// console.log(gig); 
 
 
 
+
+let yT = [ `Hema`, `rekha`, `jaya`, [`Prerna`, `Asstha`], `Sushma`]
+
+console.log(yT[3][1]);
 
 
