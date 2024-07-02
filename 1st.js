@@ -42,6 +42,7 @@ let gig = Math.floor((t*(max - min + 1)) + min)
 
 let yT = [ `Hema`, `rekha`, `jaya`, [`Prerna`, `Asstha`], `Sushma`]
 
+
 console.log(yT[3][1]);
 
 
