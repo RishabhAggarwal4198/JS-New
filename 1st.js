@@ -88,3 +88,4 @@ mathematics = (a, b) => {
 }
 
 mathematics(4,2)
+mathematics (12, 3)
