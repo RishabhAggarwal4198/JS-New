@@ -63,7 +63,7 @@ let hh  =  [
 		Rank: 64,
 		Age: 36
 	  },
-  
 ]
+
 
 console.log(hh[1].Rank);
