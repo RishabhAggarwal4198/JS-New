@@ -65,5 +65,14 @@ let hh  =  [
 	  },
 ]
 
-
 console.log(hh[1].Rank);
+
+
+
+
+
+function sayHerName (a, b ) {
+  console.log(`Her first name is '${a}' and her Last name is '${b}'`);
+}
+
+sayHerName( 'Bhagwati', 'Sureshwaran');
