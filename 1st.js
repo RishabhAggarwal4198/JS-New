@@ -76,3 +76,15 @@ function sayHerName (a, b ) {
 }
 
 sayHerName( 'Bhagwati', 'Sureshwaran');
+
+
+
+mathematics = (a, b) => {
+
+    let t1 = a/b
+	let t2 = a%b 
+	console.log(`When ${a} is divided by ${b} then the QOUTIENT is 
+		         ${t1} and the REMINDER is ${t2} `);
+}
+
+mathematics(4,2)
