@@ -47,3 +47,23 @@ console.log(yT[3][1]);
 console.log(yT[1][3]);
 
 
+
+let hh  =  [
+	{ Name: "Ramesh",
+	  Rank: 29,
+	  Age: 21
+	},
+
+	{ Name: "Suresh",
+		Rank: 22,
+		Age: 59
+	  },
+
+	  { Name: "Brijesh",
+		Rank: 64,
+		Age: 36
+	  },
+  
+]
+
+console.log(hh[1].Rank);
