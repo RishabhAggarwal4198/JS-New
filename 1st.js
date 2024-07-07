@@ -44,5 +44,6 @@ let yT = [ `Hema`, `rekha`, `jaya`, [`Prerna`, `Asstha`], `Sushma`]
 
 
 console.log(yT[3][1]);
+console.log(yT[1][3]);
 
 
