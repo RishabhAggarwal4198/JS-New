@@ -75,7 +75,7 @@ function sayHerName (a, b ) {
   console.log(`Her first name is '${a}' and her Last name is '${b}'`);
 }
 
-sayHerName( 'Bhagwati', 'Sureshwaran');
+// sayHerName( 'Bhagwati', 'Sureshwaran');
 
 
 
@@ -90,3 +90,13 @@ mathematics = (a, b) => {
 mathematics(4,2)
 mathematics (12, 3)
 
+
+let gy = {
+	nn : 1,
+	mm : 2,
+	hh : 3,
+	uu : 4
+}
+
+
+console.log(gy.mm);
