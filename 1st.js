@@ -99,4 +99,7 @@ let gy = {
 }
 
 
-console.log(gy.mm);
+
+// console.log(gy.mm);
+// console.log(gy.uu);
+
