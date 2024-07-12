@@ -6,4 +6,10 @@ let g2 = 3
 
 let gy =  "Texas"
 
-console.log(gy[3]);
+// console.log(gy[3]);
+// console.log(gy.charAt(2)); 
+
+let gh = "King of Vidarbh "
+console.log(gh.charAt(4));
+console.log(gh.charAt(5));
+console.log(gh.charAt(8));
