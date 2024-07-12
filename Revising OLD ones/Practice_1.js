@@ -18,5 +18,7 @@ let gh = "King of Vidarbh "
 let y = 20;
 let z = 30
 
-let bb = Math.floor(Math.random() * (11))
+let bb = Math.floor(Math.random() * (11) + 20)
+
+console.log(bb);
 
